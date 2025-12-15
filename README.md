@@ -619,22 +619,20 @@ pip install ultralytics opencv-python numpy
 
 ## 👥 Tim Pengembang
 
-### MLOps Team - Kelompok [Nomor Kelompok]
+### MLOps Team - Kelompok [12]
 
 | Nama | NIM | Role | Kontribusi |
 |------|-----|------|-----------|
-| **[Nama 1]** | [NIM 1] | Project Lead & ML Engineer | YOLOv8 model training & optimization |
-| **[Nama 2]** | [NIM 2] | Frontend Developer | Nuxt.js & Vue.js implementation |
-| **[Nama 3]** | [NIM 3] | Backend Developer | Express.js API & integration |
-| **[Nama 4]** | [NIM 4] | UI/UX Designer | Bootstrap styling & responsive design |
-| **[Nama 5]** | [NIM 5] | DevOps & Testing | Deployment & quality assurance |
+| **[Sofyan Fauzi Dzaki Arif]** | [122450116] | Project Lead & ML Engineer | YOLOv8 model training & optimization |
+| **[Muhammad Regi Putra Amanta]** | [122450031] | Frontend Developer | Nuxt.js & Vue.js implementation |
+| **[Aditya Rahman]** | [122450113] | Backend Developer | Express.js API & integration |
+| **[Naufal Fakhri]** | [122450089] | UI/UX Designer | Bootstrap styling & responsive design |
+| **[Try Yani Rizki Nur Rohmah]** | [122450020] | DevOps & Testing | Deployment & quality assurance |
 
 ### Dosen Pembimbing
 
-- **Nama Dosen**: [Nama Lengkap]
+- **Nama Dosen**: [Ahmad Luky Ramdani, S.Kom., M.Kom]
 - **Mata Kuliah**: MLOps / Machine Learning Operations
-- **Universitas**: [Nama Universitas]
-- **Semester**: [Semester] - [Tahun Ajaran]
 
 ---
 
